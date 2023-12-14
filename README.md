@@ -4,7 +4,7 @@ This code adds the automatic mosaicking and de-mosaicking steps to the conventio
 The [U-net](https://arxiv.org/abs/1505.04597) largerly builds upon the [fastai1 pytroch library](https://fastai1.fast.ai/vision.data.html).  
 The [pix2pix](https://arxiv.org/abs/1611.07004) implementation borrows from [tensorflow library](https://www.tensorflow.org/tutorials/generative/pix2pix).  
   
-Implimented for the article: 'Optical tomography in a single camera frame using fringe-encoded deep-learning full-field OCT' (under review).  
+Implimented for the article: ['Optical tomography in a single camera frame using fringe-encoded deep-learning full-field OCT'](https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-1-222&id=544484).  
 The U-net weights trained on full-field optical coherence tomography images (google drive link): [U-net](https://drive.google.com/drive/folders/1KjkT6XgEwGce16uyky5umfMB9ajSaoTt?usp=drive_link)  
 The pix2pix weights trained on full-field optical coherence tomography images (google drive link): [pix2pix](https://drive.google.com/drive/folders/1LdHZj7OzdrGsDW-ciQ3G15gXaQiPKrHd?usp=drive_link)  
 
@@ -30,7 +30,8 @@ The pix2pix weights trained on full-field optical coherence tomography images (g
 
 ## Citing this work
 
-Arxiv link will be added soon
+[https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-1-222&id=544484](https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-1-222&id=544484)
+https://doi.org/10.1364/BOE.506664
 
 ## License
 
