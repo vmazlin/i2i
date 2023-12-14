@@ -30,6 +30,7 @@ The pix2pix weights trained on full-field optical coherence tomography images (g
 
 ## Citing this work
 
+Viacheslav Mazlin, "Optical tomography in a single camera frame using fringe-encoded deep-learning full-field OCT," Biomed. Opt. Express 15, 222-236 (2024)
 https://doi.org/10.1364/BOE.506664
 
 ## License
