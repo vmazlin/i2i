@@ -30,7 +30,6 @@ The pix2pix weights trained on full-field optical coherence tomography images (g
 
 ## Citing this work
 
-[https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-1-222&id=544484](https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-1-222&id=544484)
 https://doi.org/10.1364/BOE.506664
 
 ## License
